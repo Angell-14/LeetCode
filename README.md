@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Angell-14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Angell-14/LeetCode/tree/master/0214-shortest-palindrome) |
+## Array
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Trie
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Counting
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
