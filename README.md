@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Angell-14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Angell-14/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Angell-14/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Trie
 |  |
