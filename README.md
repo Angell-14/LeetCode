@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Trie
 |  |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Angell-14/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1035-cousins-in-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
