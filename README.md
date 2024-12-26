@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Angell-14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Angell-14/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Angell-14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Angell-14/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Angell-14/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Angell-14/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/Angell-14/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Angell-14/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Angell-14/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Angell-14/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/Angell-14/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Angell-14/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Angell-14/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Angell-14/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/Angell-14/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Angell-14/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Angell-14/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
