@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Angell-14/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Angell-14/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Angell-14/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Trie
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/Angell-14/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Backtracking
 |  |
 | ------- |
