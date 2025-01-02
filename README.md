@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Angell-14/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Angell-14/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Angell-14/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Angell-14/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Angell-14/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Angell-14/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Angell-14/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
