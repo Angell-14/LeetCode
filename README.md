@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Angell-14/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Angell-14/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Angell-14/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Angell-14/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Angell-14/LeetCode/tree/master/0268-missing-number) |
 | [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Angell-14/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Angell-14/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
