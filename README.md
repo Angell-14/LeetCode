@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Angell-14/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Angell-14/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Angell-14/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Angell-14/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Angell-14/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Angell-14/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Angell-14/LeetCode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Angell-14/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Angell-14/LeetCode/tree/master/0494-target-sum) |
 ## Divide and Conquer
